@@ -2,6 +2,6 @@
 
 ## Membros da Equipe
 
-1. Fulano de Tal
-2. Sicrano de Tal
-3. Beltrano de Tal
+1. Alex Antônio lamonato Filho
+2. Eduardo de Almeida Souza
+3. Bruno Silva Moraes
